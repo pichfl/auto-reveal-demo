@@ -1,0 +1,18 @@
+{
+  "name": "slides (npm)",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "auto-reveal",
+    "build": "auto-reveal build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "auto-reveal": "link:../auto-reveal",
+    "auto-reveal-theme-mainmatter": "link:../auto-reveal-theme-mainmatter"
+  }
+}

@@ -1,0 +1,13 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  auto-reveal:
+    specifier: link:../auto-reveal
+    version: link:../auto-reveal
+  auto-reveal-theme-mainmatter:
+    specifier: link:../auto-reveal-theme-mainmatter
+    version: link:../auto-reveal-theme-mainmatter
